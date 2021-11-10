@@ -28,6 +28,7 @@ li h3 b {
 h2 {
     background-color: darkcyan;
     border-radius: 5px;
+    text-align: center;
 }
 
 p {

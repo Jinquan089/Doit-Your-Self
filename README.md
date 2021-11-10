@@ -11,3 +11,5 @@
 9. Crea una clase llamado borde-div que contenga un borde solido de 3px con color white y un relleno de izquierda y derecha de 6% tambien un relleno por debajo de 3.5%
 10. Crea una clase llamado imagen y pon una etiqueta para central la imagen
 11. Crea una clase llamado borde-a y que tenga boder solid darkcyan 2px con relleno arriba y abajo 2% izquierda y derecha 3%
+12. Central el h2 de la pagina web
+13. 
